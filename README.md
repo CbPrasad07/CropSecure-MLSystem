@@ -42,7 +42,7 @@ It integrates:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/CropSecure-MLSystem.git
+git clone https://github.com/CbPrasad07/CropSecure-MLSystem.git
 cd CropSecure-MLSystem
 ```
 
@@ -104,12 +104,3 @@ streamlit run app.py
 Contributions are welcome!
 Fork the repo, create a branch, commit changes, and open a pull request.
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-Do you want me to also make you a **professional GitHub repository banner** for CropSecure-MLSystem so the repo looks premium? That will make it stand out visually.
