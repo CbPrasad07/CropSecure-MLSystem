@@ -37,20 +37,6 @@ It integrates:
 
 ---
 
-## 📂 Project Structure
-
-```
-CropSecure-MLSystem/
-│-- app.py                 # Main application file
-│-- requirements.txt       # Required Python libraries
-│-- scaler.pkl             # Data scaler for preprocessing
-│-- best_churn_model.pkl   # Trained Random Forest model
-│-- .env                   # API keys (Not pushed to GitHub)
-│-- README.md              # Project documentation
-```
-
----
-
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the Repository
